@@ -9,7 +9,7 @@ import pickle
 import os
 import zipfile
 
-class LanguageModelTrainerT:
+class WordCraft:
     def __init__(self):
         self.tokenizer = None
         self.vocab_size = None
