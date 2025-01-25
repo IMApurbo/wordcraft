@@ -1,4 +1,3 @@
-# language_model_trainer.py
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.preprocessing.text import Tokenizer
